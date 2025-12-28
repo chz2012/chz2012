@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 
+
+- 🌱 I’m currently learning VLMs/VLA
+
+![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=chz2012)
+
+![CSDN stats](https://stats.justsong.cn/api/csdn?id=ChengZ201277)
 
 <!--
 **chz2012/chz2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
